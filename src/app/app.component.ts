@@ -8,7 +8,7 @@ import { HeaderComponent } from './shared/header/header.component';
   standalone: true,
   imports: [RouterOutlet, FooterComponent],
   templateUrl: './app.component.html',
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.scss'
 })
 export class AppComponent {
   title = 'w-sierra';
